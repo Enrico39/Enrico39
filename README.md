@@ -1,5 +1,5 @@
 # ⚡️ About Me:
-🔭 I’m currently working on Games and Apps<br>🌱 Learning Unity & Blender<br>
+🔭 I’m currently working on Games and Apps<br>🌱 Learning Unity and Algorithms & Data Structures<br>
 
 
 ## 👥 Socials:
@@ -12,9 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico39&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+ 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
