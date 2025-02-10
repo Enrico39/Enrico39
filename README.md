@@ -1,5 +1,5 @@
 # ⚡️ About Me:
-🔭 I’m currently working on Games and Apps<br>🌱 Learning Unity and Algorithms & Data Structures<br>
+🔭🌱 Lifelong Learner<br>
 
 
 ## 👥 Socials:
